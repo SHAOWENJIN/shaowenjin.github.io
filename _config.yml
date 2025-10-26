@@ -1,0 +1,16 @@
+# 网站的基本信息
+title: "My Continuous Professional Development Webpage"  # 你网站的标题
+description: "I'm a postgraduate student in University of Manchester."  # 网站描述
+baseurl: ""  # 通常保持为空，除非你的网站不在根目录
+url: "https://shaowenjin.github.io"  # 你的网站地址，请替换"你的用户名"
+
+# 构建设置
+theme: minima  # 我们先从最简单的默认主题开始
+
+# 作者信息
+author:
+  name: "SHAOWEN JIN"  # 在这里写下你的名字
+
+# 网站的导航链接 (暂时可以留空，或者先这样写)
+header_pages:
+  - README.md
