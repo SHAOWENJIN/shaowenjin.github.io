@@ -5,7 +5,7 @@ baseurl: ""  # 通常保持为空，除非你的网站不在根目录
 url: "https://shaowenjin.github.io"  # 你的网站地址，请替换"你的用户名"
 
 # 构建设置
-theme: minima  # 我们先从最简单的默认主题开始
+remote_theme: old-jekyll-templates/Strata-Jekyll-Theme  # 我们先从最简单的默认主题开始
 
 # 作者信息
 author:
