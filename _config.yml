@@ -1,16 +1,16 @@
-# 网站的基本信息
-title: "My Continuous Professional Development Webpage"  # 你网站的标题
-description: "I'm a postgraduate student in University of Manchester."  # 网站描述
-baseurl: ""  # 通常保持为空，除非你的网站不在根目录
-url: "https://shaowenjin.github.io"  # 你的网站地址，请替换"你的用户名"
+# basic messages
+title: "My Continuous Professional Development Webpage"
+description: "I'm a postgraduate student in University of Manchester."
+baseurl: ""
+url: "https://shaowenjin.github.io"
 
-# 构建设置
-remote_theme: old-jekyll-templates/Strata-Jekyll-Theme  # 我们先从最简单的默认主题开始
+# theme
+remote_theme: old-jekyll-templates/Strata-Jekyll-Theme
 
-# 作者信息
+# author
 author:
-  name: "SHAOWEN JIN"  # 在这里写下你的名字
+  name: "SHAOWEN JIN"
 
-# 网站的导航链接 (暂时可以留空，或者先这样写)
+# link
 header_pages:
   - README.md
