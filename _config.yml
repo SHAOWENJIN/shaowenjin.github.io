@@ -1,6 +1,6 @@
 locale: "en-US"
 title: SHAOWEN JIN # Title of your site
-url: "https://shaowenjin.github.io" # the base hostname & protocol for your site
+url: "shaowenjin.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
@@ -21,7 +21,7 @@ author:
 social:
   name: SHAOWEN JIN
   links:
-    - https://github.com/shaowenjin
+    - https://github.com/shaowenjin.github.io
 
 permalink: pretty
 
