@@ -3164,3 +3164,17 @@
  	.cms-editor-active .editor-link {
  		display: inline-block;
  	}
+
+/* 强制隐藏所有可能的重复头部 */
+#header + header,
+#header + nav,
+#header + div[class*="header"],
+#header + div[class*="nav"] {
+    display: none !important;
+}
+
+/* 确保只有我们修改的导航栏显示 */
+body > header:not(#header),
+body > nav:not(#header nav) {
+    display: none !important;
+}
