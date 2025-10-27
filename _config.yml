@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "SHAOWEN JIN"
-description              : "A student major in Robotics. "
+description              : "I'm a student major in Robotics. "
 repository               : "shaowenjin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shaowen-jin" # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/shaowen-jin" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
