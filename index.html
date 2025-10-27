@@ -3,98 +3,115 @@ layout: default
 title: Home
 ---
 
+<style>
+/* 自定义样式 */
+#header {
+    text-align: center;
+}
+#header .title {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+#header nav ul {
+    margin-top: 40px;
+}
+#header nav ul li {
+    margin: 30px 0;
+}
+#header nav ul li a {
+    font-size: 1.4em;
+    font-weight: bold;
+    padding: 10px 0;
+}
+.avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+    background: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.avatar-placeholder {
+    color: #999;
+    font-size: 0.8em;
+    text-align: center;
+}
+.section-spacing {
+    margin-bottom: 80px;
+    padding: 40px 0;
+    border-bottom: 1px solid #eee;
+}
+</style>
+
 <!-- Header -->
 <header id="header">
-	<a href="{{ site.baseurl }}/" class="title">SHAOWEN JIN</a>
-	<nav>
-		<ul>
-			<li><a href="{{ site.baseurl }}/" class="active">Home</a></li>
-			<li><a href="{{ site.baseurl }}/generic.html">About</a></li>
-			<li><a href="{{ site.baseurl }}/elements.html">Projects</a></li>
-		</ul>
-	</nav>
+    <!-- 头像 -->
+    <div class="avatar">
+        <div class="avatar-placeholder">
+            120x120<br>Your Photo
+        </div>
+    </div>
+    
+    <a href="{{ site.baseurl }}/" class="title">SHAOWEN JIN</a>
+    <nav>
+        <ul>
+            <li><a href="#home">HOME</a></li>
+            <li><a href="#about">ABOUT</a></li>
+            <li><a href="#projects">PROJECTS</a></li>
+        </ul>
+    </nav>
 </header>
 
 <!-- Wrapper -->
 <div id="wrapper">
 
-	<!-- Main -->
-	<section id="main" class="wrapper">
-		<div class="inner">
-			<h1 class="major">Hi, I'm SHAOWEN JIN</h1>
-			<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
-			<p>I'm a Master's student at the University of Manchester, and this is my Continuous Professional Development portfolio. Here I document my learning journey, projects, and professional growth.</p>
-			<p>My focus is on [Your Field/Interest], and I'm passionate about [Your Passion]. Through this CPD portfolio, I aim to showcase not just what I've accomplished, but more importantly, what I've learned along the way.</p>
-		</div>
-	</section>
+    <!-- Home Section -->
+    <section id="home" class="wrapper style1 fade-up section-spacing">
+        <div class="inner">
+            <h2>Home</h2>
+            <p>Welcome to my Continuous Professional Development portfolio. As a Master's student at the University of Manchester, I use this space to document my academic journey, technical growth, and professional achievements. This portfolio serves as a living record of my learning experiences and skill development.</p>
+            <p>Through various projects and coursework, I've developed expertise in multiple technical domains while cultivating essential professional skills. Each section below represents a key aspect of my development journey.</p>
+        </div>
+    </section>
 
-	<!-- CPD Sections -->
-	<section id="one" class="wrapper style2 spotlights">
-		<section>
-			<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
-			<div class="content">
-				<div class="inner">
-					<h2>Technical Skills</h2>
-					<ul>
-						<li><strong>Programming:</strong> Python, JavaScript, [Your Languages]</li>
-						<li><strong>Tools:</strong> Git, GitHub, Jekyll, [Your Tools]</li>
-						<li><strong>Methodologies:</strong> [Your Methodologies]</li>
-					</ul>
-					<ul class="actions">
-						<li><a href="#" class="button">Learn more</a></li>
-					</ul>
-				</div>
-			</div>
-		</section>
-		<section>
-			<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
-			<div class="content">
-				<div class="inner">
-					<h2>Featured Projects</h2>
-					<h3>Personal Portfolio Website</h3>
-					<p>Developed this responsive portfolio using Jekyll and GitHub Pages to showcase my CPD journey.</p>
-					<h3>[Your Project Title]</h3>
-					<p>[Brief description of your project and learning outcomes]</p>
-					<ul class="actions">
-						<li><a href="#" class="button">Learn more</a></li>
-					</ul>
-				</div>
-			</div>
-		</section>
-		<section>
-			<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
-			<div class="content">
-				<div class="inner">
-					<h2>CPD Activities</h2>
-					<div class="table-wrapper">
-						<table>
-							<thead>
-								<tr>
-									<th>Date</th>
-									<th>Activity</th>
-									<th>Outcome</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>March 2024</td>
-									<td>Portfolio Development</td>
-									<td>Learned Jekyll & GitHub Pages</td>
-								</tr>
-								<tr>
-									<td>[Date]</td>
-									<td>[Activity]</td>
-									<td>[Learning Outcome]</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-					<ul class="actions">
-						<li><a href="#" class="button">Learn more</a></li>
-					</ul>
-				</div>
-			</div>
-		</section>
-	</section>
+    <!-- About Section -->
+    <section id="about" class="wrapper style2 fade-up section-spacing">
+        <div class="inner">
+            <h2>About Me</h2>
+            <p>I am a passionate learner currently pursuing my Master's degree at the University of Manchester. My academic focus lies in [Your Field], where I combine theoretical knowledge with practical applications. I believe in the power of continuous learning and actively seek opportunities to expand my skill set.</p>
+            <p>My technical background includes strong proficiency in Python and JavaScript, with hands-on experience in web development using modern frameworks. I'm particularly interested in [Your Specific Interests] and how technology can be leveraged to solve real-world problems in this domain.</p>
+            <p>When I'm not coding or studying, you can find me [Your Hobbies or Other Activities]. I'm always open to collaborating on interesting projects and discussing new ideas in the tech space.</p>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="wrapper style3 fade-up section-spacing">
+        <div class="inner">
+            <h2>Projects</h2>
+            <p>This portfolio website itself represents one of my key projects - a responsive Jekyll-based site deployed through GitHub Pages. The development process taught me valuable lessons in static site generation, version control with Git, and responsive web design principles.</p>
+            <p>Another significant project involved [Your Project Description]. Through this work, I developed skills in [Specific Skills] and learned the importance of [Key Learning Points]. The project challenged me to [Specific Challenges] and ultimately helped me grow as a [Your Role].</p>
+            <p>I'm currently working on [Current Project], which focuses on [Project Goals]. This initiative allows me to explore [New Technologies/Methods] while addressing [Problem Statement]. The experience continues to enhance my abilities in [Relevant Skills].</p>
+        </div>
+    </section>
 
 </div>
+
+<!-- Script for smooth scrolling -->
+<script>
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    });
+});
+</script>
