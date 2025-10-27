@@ -1,38 +1,129 @@
 ---
 layout: default
+title: Home
 ---
+
+<!-- Banner -->
+<section id="banner">
+  <header>
+    <h2>Hi, I'm SHAOWEN JIN</h2>
+    <p>Master's Student at The University of Manchester<br />
+    This is my Continuous Professional Development Portfolio</p>
+  </header>
+</section>
+
+<!-- Main Content -->
 <div id="main">
-  <section>
-    {% for post in site.posts limit:1 %}
-      <header>
-        <h1>{{ post.title }}</h1>
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  <!-- About Section -->
+  <section id="about" class="wrapper style1">
+    <div class="container">
+      <header class="major">
+        <h2>About Me</h2>
       </header>
-      <section>
-        {{ post.content }}
-        <p class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></p>
-      </section>
-    {% endfor %}
+      <div class="row">
+        <div class="8u">
+          <p>I am a postgraduate student at the University of Manchester, passionate about [Your Field]. This portfolio documents my journey of continuous learning and professional development through academic projects, technical skills, and personal growth.</p>
+          <p>My CPD focuses on [Your Specific Interests or Goals].</p>
+        </div>
+        <div class="4u">
+          <ul class="alt">
+            <li><strong>Email:</strong> shaowen.jin@postgrad.manchester.ac.uk</li>
+            <li><strong>Location:</strong> Manchester, UK</li>
+            <li><strong>GitHub:</strong> shaowenjin</li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </section>
 
-  <section>
-    <div class="row">
-      {% for post in site.posts offset:1 %}
-        <article class="{% cycle '6u', '6u$' %} 12u(small)">
-          <header>
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          </header>
-          <section>
-            {{ post.excerpt }}
-          </section>
-          <footer>
+  <!-- Skills Section -->
+  <section id="skills" class="wrapper style2">
+    <div class="container">
+      <header class="major">
+        <h2>Technical Skills</h2>
+      </header>
+      <div class="row">
+        <div class="6u">
+          <h3>Programming</h3>
+          <ul>
+            <li>Python</li>
+            <li>JavaScript</li>
+            <li>[Add your languages]</li>
+          </ul>
+        </div>
+        <div class="6u">
+          <h3>Tools & Frameworks</h3>
+          <ul>
+            <li>Git & GitHub</li>
+            <li>Jekyll</li>
+            <li>[Add your tools]</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects" class="wrapper style3">
+    <div class="container">
+      <header class="major">
+        <h2>Featured Projects</h2>
+        <p>My key CPD achievements and learning experiences</p>
+      </header>
+      <div class="row">
+        <!-- Project 1 -->
+        <div class="6u">
+          <section class="special">
+            <h3>Personal Portfolio Website</h3>
+            <p>Developed this responsive portfolio using Jekyll and GitHub Pages to showcase my CPD journey and technical projects.</p>
             <ul class="actions">
-              <li><a href="{{ post.url }}" class="button">Read More</a></li>
-              <li class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></li>
+              <li><a href="#" class="button alt">Learn More</a></li>
             </ul>
-          </footer>
-        </article>
-      {% endfor %}
+          </section>
+        </div>
+        <!-- Project 2 -->
+        <div class="6u">
+          <section class="special">
+            <h3>[Your Project Title]</h3>
+            <p>[Brief description of your project and what you learned from it. Focus on CPD outcomes.]</p>
+            <ul class="actions">
+              <li><a href="#" class="button alt">Learn More</a></li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CPD Activities -->
+  <section id="cpd" class="wrapper style1">
+    <div class="container">
+      <header class="major">
+        <h2>CPD Activities</h2>
+      </header>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Activity</th>
+              <th>Skills Developed</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>March 2024</td>
+              <td>Portfolio Website Development</td>
+              <td>Web Development, GitHub Pages, Jekyll</td>
+            </tr>
+            <tr>
+              <td>[Date]</td>
+              <td>[Your Activity]</td>
+              <td>[Skills Learned]</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </section>
 </div>
