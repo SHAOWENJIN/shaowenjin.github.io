@@ -25,9 +25,9 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 
 
 # 💡 Technical Skills
-- Programming Foundations: &nbsp; *Python, Java, C++.*
-- Artificial Intelligence: &nbsp; *Artificial Neural Network, Machine Learning and Pattern Recognition.*
-- Robotics: &nbsp; *ROS2, Computer Vision, Navigation.*
+- **Programming Foundations:** *Python, Java, C++.*
+- **Artificial Intelligence:** *Artificial Neural Network, Machine Learning and Pattern Recognition.*
+- **Robotics:** *ROS2, Computer Vision, Navigation.*
 
 # 📝 Publications 
 
@@ -46,12 +46,21 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- **Provincial Bronze Award, The 14th Challenge Cup Shandong Provincial College Students Entrepreneurship Plan Competition**
+  *12/2023-05/2024* An Integrated Cloud-based Device for Intelligent Psychological Health Services *(Main Presenter)*
+- **Software Copyright Registration**
+  *2023.12* Fatigue Driving Intelligent Detection System Based on Atlas 200I DK A2 *(Third Author)*
+- **School-level Gold Award, The 5th Innovation and Entrepreneurship Competition**
+  *11/2023-01/2024* A Mental Health Educational and Companionship App for College Students
+- **Provincial Second Prize, National University Students’ FinTech Innovation Competition**
+  *11/2023-05/2024* AI Anti-Fraud Payment Platform Assisted by Depth Information Supervision (Leader)
+- **Provincial Third Prize, Shandong Provincial College Student Artificial Intelligence Competition**
+  *10/2023-12/2023* Computer Vision Application: Real vs. AI Detection
+- **Provincial Third Prize, Shandong Provincial College Student Computer Technology Application Competition**
+ 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - 2025.10 (now)*, University of Manchester, MSc Robotics.
+- *2021.09 - 2025.06*, University of Jinan, Bachelor of Engineering, Artificial Intelligence.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
