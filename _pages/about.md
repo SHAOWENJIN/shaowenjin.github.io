@@ -54,7 +54,7 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 - Outstanding Graduation Thesis. 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Microcontroller Unit</div><video width="100%"><source src="videos/STM32F103CBT6_Item.mp4" type="video/mp4"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Microcontroller Unit</div><video width="100%" controls><source src="videos/STM32F103CBT6_Item.mp4" type="video/mp4"></video></div></div>
 <div class='paper-box-text' markdown="1">
 [STM32F103CBT6_Item](https://github.com/SHAOWENJIN/STM32F103CBT6_Item.git)
 - Outstanding Graduation Thesis. 
