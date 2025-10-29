@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a MSc Robotics student at the University of Manchester, with a background in Artificial Intelligence. I have focused my academic and practical efforts on the development of "Intelligent Environments." This path included my bachelor's thesis, Deep Learning-Based Prediction of Photovoltaic Power Generation, and was reinforced by an electronic internship in the energy sector.
+I am a MSc Robotics student at the University of Manchester, with a background in Artificial Intelligence. I have focused my academic and practical efforts on the development of "Intelligent Environments". This path included my bachelor's thesis, Deep Learning-Based Prediction of Photovoltaic Power Generation, and was reinforced by an electronic internship in the energy sector.
 
-My focus extends beyond pure technology to include the confluence of AI and psychology, where I seek to combine more intuitive service and interaction.
-
-My goal is to forge a career as an engineer who creates tangible solutions at the nexus of machine intelligence and real-world applications, particularly within the energy or human-computer interaction.
+My goal is to forge a career as an engineer who creates tangible solutions at the nexus of machine intelligence, particularly within the energy.
 
 
 # 💡 Technical Skills
@@ -31,15 +29,12 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Deep Learning</div><img src='images/Deep Learning-Based Prediction of Photovoltaic Power Generation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Deep Learning-Based Prediction of Photovoltaic Power Generation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Graduation Thesis. 
 </div>
 </div>
 
@@ -47,24 +42,22 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 
 # 🎖 Honors and Awards
 - **Provincial Bronze Award, The 14th Challenge Cup Shandong Provincial College Students Entrepreneurship Plan Competition**
-  *12/2023-05/2024* An Integrated Cloud-based Device for Intelligent Psychological Health Services *(Main Presenter)*
+  <br>*12/2023-05/2024* An Integrated Cloud-based Device for Intelligent Psychological Health Services *(Main Presenter)*
 - **Software Copyright Registration**
-  *2023.12* Fatigue Driving Intelligent Detection System Based on Atlas 200I DK A2 *(Third Author)*
+  <br>*2023.12* Fatigue Driving Intelligent Detection System Based on Atlas 200I DK A2 *(Third Author)*
 - **School-level Gold Award, The 5th Innovation and Entrepreneurship Competition**
-  *11/2023-01/2024* A Mental Health Educational and Companionship App for College Students
+  <br>*11/2023-01/2024* A Mental Health Educational and Companionship App for College Students
 - **Provincial Second Prize, National University Students’ FinTech Innovation Competition**
-  *11/2023-05/2024* AI Anti-Fraud Payment Platform Assisted by Depth Information Supervision (Leader)
+  <br>*11/2023-05/2024* AI Anti-Fraud Payment Platform Assisted by Depth Information Supervision (Leader)
 - **Provincial Third Prize, Shandong Provincial College Student Artificial Intelligence Competition**
-  *10/2023-12/2023* Computer Vision Application: Real vs. AI Detection
+  <br>*10/2023-12/2023* Computer Vision Application: Real vs. AI Detection
 - **Provincial Third Prize, Shandong Provincial College Student Computer Technology Application Competition**
- 
+
 # 📖 Educations
 - *2025.09 - 2025.10 (now)*, University of Manchester, MSc Robotics.
 - *2021.09 - 2025.06*, University of Jinan, Bachelor of Engineering, Artificial Intelligence.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.09 - 2024.12*, Synthesis Electronic Technology Co., Ltd., China.
+- *2024.07 - 2024.08*, Shandong Kesen Enterprise Management Consulting Co., Ltd, China.
+- *2023.12 - 2024.01*, Jinan Yujian Network Technology Co., Ltd, China.
