@@ -27,17 +27,39 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 - **Artificial Intelligence:** *Artificial Neural Network, Machine Learning and Pattern Recognition.*
 - **Robotics:** *ROS2, Computer Vision, Navigation.*
 
-# 📝 Publications 
+# 📝 Research 
 <h3 style="font-weight: normal; font-size: 1.2em; margin-top: 20px; color: #666;">Artificial Intelligence</h3>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Deep Learning</div><img src='images/Deep Learning-Based Prediction of Photovoltaic Power Generation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Deep Learning-Based Prediction of Photovoltaic Power Generation](https://github.com/SHAOWENJIN/Deep-Learning-Based-Prediction-of-Photovoltaic-Power-Generation.git)
-
 - Outstanding Graduation Thesis. 
-</div>
-</div>
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Vision</div><img src='images/Computer Vision Application Real vs. AI Detection.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Computer Vision Application Real vs. AI Detection](https://github.com/SHAOWENJIN/Computer-Vision-Application-Real-vs.-AI-Detection.git)
+- Outstanding Graduation Thesis. 
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/LeNet-based Object Classification.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[LeNet-based Object Classification](https://github.com/SHAOWENJIN/LeNet-based-Object-Classification.git)
+- Outstanding Graduation Thesis. 
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Machine Learning</div><img src='images/Kmeans_PSO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Kmeans_PSO](https://github.com/SHAOWENJIN/Kmeans_PSO.git)
+- Outstanding Graduation Thesis. 
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Microcontroller Unit</div><video width="100%"><source src="videos/STM32F103CBT6_Item.mp4" type="video/mp4"></video></div></div>
+<div class='paper-box-text' markdown="1">
+[STM32F103CBT6_Item](https://github.com/SHAOWENJIN/STM32F103CBT6_Item.git)
+- Outstanding Graduation Thesis. 
+</div></div>
+
 
 <h3 style="font-weight: normal; font-size: 1.2em; margin-top: 20px; color: #666;">Robotics</h3>
 
