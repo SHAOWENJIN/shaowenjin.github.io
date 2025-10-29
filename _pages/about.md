@@ -28,6 +28,7 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 - **Robotics:** *ROS2, Computer Vision, Navigation.*
 
 # 📝 Publications 
+<h3 style="font-weight: normal; font-size: 1.2em; margin-top: 0px; color: #666;">Artificial Intelligence</h3>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Deep Learning</div><img src='images/Deep Learning-Based Prediction of Photovoltaic Power Generation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,6 +36,16 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 [Deep Learning-Based Prediction of Photovoltaic Power Generation](https://github.com/SHAOWENJIN/Deep-Learning-Based-Prediction-of-Photovoltaic-Power-Generation.git)
 
 - Outstanding Graduation Thesis. 
+</div>
+</div>
+
+<h3 style="font-weight: normal; font-size: 1.2em; margin-top: 0px; color: #666;">Robotics</h3>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Systems</div><iframe width="100%" height="200"                    src="https://youtu.be/32iZ6pw9bB8" frameborder="0" allowfullscreen></iframe></div></div></div>
+
+[Robotic Systems for Sustainable Development](https://youtu.be/32iZ6pw9bB8))
+
+- Energy.
 </div>
 </div>
 
