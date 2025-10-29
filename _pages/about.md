@@ -47,24 +47,22 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 
 # 🎖 Honors and Awards
 - **Provincial Bronze Award, The 14th Challenge Cup Shandong Provincial College Students Entrepreneurship Plan Competition**
-  *12/2023-05/2024* An Integrated Cloud-based Device for Intelligent Psychological Health Services *(Main Presenter)*
+  <br>*12/2023-05/2024* An Integrated Cloud-based Device for Intelligent Psychological Health Services *(Main Presenter)*
 - **Software Copyright Registration**
-  *2023.12* Fatigue Driving Intelligent Detection System Based on Atlas 200I DK A2 *(Third Author)*
+  <br>*2023.12* Fatigue Driving Intelligent Detection System Based on Atlas 200I DK A2 *(Third Author)*
 - **School-level Gold Award, The 5th Innovation and Entrepreneurship Competition**
-  *11/2023-01/2024* A Mental Health Educational and Companionship App for College Students
+  <br>*11/2023-01/2024* A Mental Health Educational and Companionship App for College Students
 - **Provincial Second Prize, National University Students’ FinTech Innovation Competition**
-  *11/2023-05/2024* AI Anti-Fraud Payment Platform Assisted by Depth Information Supervision (Leader)
+  <br>*11/2023-05/2024* AI Anti-Fraud Payment Platform Assisted by Depth Information Supervision (Leader)
 - **Provincial Third Prize, Shandong Provincial College Student Artificial Intelligence Competition**
-  *10/2023-12/2023* Computer Vision Application: Real vs. AI Detection
+  <br>*10/2023-12/2023* Computer Vision Application: Real vs. AI Detection
 - **Provincial Third Prize, Shandong Provincial College Student Computer Technology Application Competition**
- 
+
 # 📖 Educations
 - *2025.09 - 2025.10 (now)*, University of Manchester, MSc Robotics.
 - *2021.09 - 2025.06*, University of Jinan, Bachelor of Engineering, Artificial Intelligence.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.09 - 2024.12*, Synthesis Electronic Technology Co., Ltd., China.
+- *2024.07 - 2024.08*, Shandong Kesen Enterprise Management Consulting Co., Ltd, China.
+- *2023.12 - 2024.01*, Jinan Yujian Network Technology Co., Ltd, China.
