@@ -41,7 +41,7 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 
 <h3 style="font-weight: normal; font-size: 1.2em; margin-top: 20px; color: #666;">Robotics</h3>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Deep Learning</div><img src='images/Robotic Systems for Sustainable Development.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Systems</div><img src='images/Robotic Systems for Sustainable Development.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robotic Systems for Sustainable Development](https://youtu.be/32iZ6pw9bB8))
