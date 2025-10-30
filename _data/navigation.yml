@@ -1,10 +1,10 @@
-ni# main links links
+# Main Navigation Links
 main:
   - title: "About Me"
     url: "/#about-me"
 
   - title: "Technical Skills"
-    url: "/#-technical skills"
+    url: "/#-technical-skills"
 
   - title: "Research"
     url: "/#-research"
