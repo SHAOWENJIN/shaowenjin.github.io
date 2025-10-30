@@ -107,3 +107,14 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* page width */
+.page {
+    max-width: 1000px !important;
+    margin: 0 auto !important;
+    padding: 0 100px !important;
+}
+
+body {
+    background-color: #f8f9fa;
+}
