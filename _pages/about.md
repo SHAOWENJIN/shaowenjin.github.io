@@ -24,8 +24,8 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 
 # 💡 Technical Skills
 - **Programming Foundations:** *Python, Java, C++.*
-- **Artificial Intelligence:** *Artificial Neural Network, Machine Learning and Pattern Recognition.*
-- **Robotics:** *ROS2, Computer Vision, Navigation.*
+- **Artificial Intelligence:** *Artificial Neural Network, Computer Vision, Deep Learning and Pattern Recognition, Embedded Systems.*
+- **Robotics:** *ROS2, Navigation.*
 
 # 📝 Research 
 <h3 style="font-weight: normal; font-size: 1.2em; margin-top: 20px; color: #666;">Artificial Intelligence</h3>
