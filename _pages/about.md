@@ -41,13 +41,18 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 <div class='paper-box-text' markdown="1">
 [Computer Vision Application Real vs. AI Detection](https://github.com/SHAOWENJIN/Computer-Vision-Application-Real-vs.-AI-Detection.git)
 - Presents an AI-generated image detection algorithm focused on texture features. By converting original images into line drawings, the model effectively captures edge texture characteristics (e.g., smoother transitions in AI images vs. distinct separation in real images), avoiding redundant information interference. Preprocessing employs a grayscale- and gradient-based reconstruction method to maximize retention of立体 depth features, supplemented by Gaussian denoising similarity comparison as an auxiliary screening step. The backbone network utilizes EfficientNetV2, optimized via Neural Architecture Search (NAS) to achieve an optimal balance between parameter size and computational efficiency, delivering top-tier performance on ImageNet. The model is converted to ONNX format, boosting inference speed by approximately 40% while enhancing cross-platform compatibility. 
+</div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Microcontroller Unit</div><video width="100%" controls><source src="videos/STM32F103CBT6_Item.mp4" type="video/mp4"></video></div></div>
+<div class='paper-box-text' markdown="1">
+[STM32F103CBT6_Item](https://github.com/SHAOWENJIN/STM32F103CBT6_Item.git)
+- This STM32-based project demonstrates full-stack embedded development. I independently designed the circuit and PCB (recognized with engraved naming), programmed in embedded C using Keil, and configured peripherals via STM32CubeMX. Implemented features include LED matrix display, PWM dimming, buzzer audio, UART communication, and RTOS multitasking. Debugging hardware issues enhanced my interface programming and system integration capabilities. 
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/LeNet-based Object Classification.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [LeNet-based Object Classification](https://github.com/SHAOWENJIN/LeNet-based-Object-Classification.git)
-- This projects implements image classification on the CIFAR-10 dataset using the LeNet-5 architecture. The network employs alternating convolutional and pooling layers to extract hierarchical features: convolutional layers capture local patterns through sliding kernels, while pooling layers reduce dimensionality and computational load. Classification is performed via fully connected layers, with ReLU activation functions enabling nonlinear modeling. The experiment comprises three phases: constructing the LeNet-5 architecture with forward propagation; training on CIFAR-10 while adjusting sample size and iteration counts, with model parameters saved for reuse; and evaluating accuracy on test sets and custom images to validate classification performance. 
+- This project implements CIFAR-10 image classification using LeNet-5. The architecture alternates convolutional layers (extracting local patterns) with pooling layers (reducing dimensionality), followed by fully connected layers with ReLU activation for classification. The experiment involved model construction, training with parameter adjustment, and performance validation on test data. 
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Machine Learning</div><img src='images/Kmeans_PSO.png' alt="sym" width="100%"></div></div>
@@ -55,13 +60,6 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 [Kmeans_PSO](https://github.com/SHAOWENJIN/Kmeans_PSO.git)
 - This study applies Particle Swarm Optimization to codebook design in speech recognition. The method clusters speech feature vectors into codewords, with each particle representing a candidate codebook. Through iterative updates of particle positions and velocities using the inverse intra-class dispersion as the fitness function, it maximizes inter-class distance to enhance codebook quality. Key parameters employ nonlinear adjustment strategies: inertia weight balances global/local search, while learning factors coordinate individual/collective experience. This approach effectively improves encoding efficiency and decoding accuracy in vector quantization. 
 </div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Microcontroller Unit</div><video width="100%" controls><source src="videos/STM32F103CBT6_Item.mp4" type="video/mp4"></video></div></div>
-<div class='paper-box-text' markdown="1">
-[STM32F103CBT6_Item](https://github.com/SHAOWENJIN/STM32F103CBT6_Item.git)
-- This project based on the STM32 microcontroller, demonstrates comprehensive embedded system development capabilities. On the hardware side, I independently designed the circuit schematic and PCB layout, with my name engraved on the microcontroller board in recognition of outstanding design. For software development, embedded C programs were written using Keil uVision5, with peripherals including GPIO, UART, and timers configured graphically via STM32CubeMX. Implemented features include LED matrix dynamic display, PWM breathing lights, buzzer music playback, UART communication, and RTOS multitasking. Practical issues such as GPIO configuration errors were resolved through debugging, enhancing hardware interface programming and system integration skills. 
-</div></div>
-
 
 <h3 style="font-weight: normal; font-size: 1.2em; margin-top: 20px; color: #666;">Robotics</h3>
 
