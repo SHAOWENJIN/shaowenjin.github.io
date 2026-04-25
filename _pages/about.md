@@ -34,10 +34,7 @@ My goal is to forge a career as an engineer who creates tangible solutions at th
 <div class='paper-box-text' markdown="1">
 [Deep Learning-Based Prediction of Photovoltaic Power Generation](https://github.com/SHAOWENJIN/Deep-Learning-Based-Prediction-of-Photovoltaic-Power-Generation.git)<br><br>
 - Outstanding Graduation Thesis. 
-- <strong>🎯 Goal:</strong> Improve PV power prediction accuracy for grid stability by capturing both local and long-term patterns in time series data.<br>
-<strong>👤 My Contribution:</strong> Designed the CNN-LSTM hybrid architecture; implemented PCA-based dimensionality reduction; tuned hyperparameters; compared with CNN, LSTM, XG_BOOST; wrote the entire code and paper.<br>
-<br>
-<strong>📌 Description:</strong> To address the limitation that existing methods fail to capture periodicity and long-term dependencies, I propose a CNN-LSTM deep learning model. It uses PCA for dimensionality reduction, CNN to extract local temporal features, and LSTM to learn long-term patterns. Validated on a U.S. PV plant dataset, our model outperforms benchmarks, achieving the lowest MAE (134) and RMSE (289).
+- As the depletion of fossil fuels accelerates the transition to renewable energy, accurate photovoltaic (PV) power prediction becomes crucial for grid stability. Existing methods often fail to capture the periodicity and long-term dependencies in power generation data. To address this, I propose a CNN-LSTM deep learning model. It processes data using PCA for dimensionality reduction, employs CNN to extract local temporal features, and utilizes LSTM to learn long-term patterns. Validated on a U.S. PV plant dataset, our model outperforms CNN, LSTM, and XG_BOOST benchmarks, achieving the lowest MAE (134) and RMSE (289).
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Vision</div><img src='images/Computer Vision Application Real vs. AI Detection.png' alt="sym" width="100%"></div></div>
