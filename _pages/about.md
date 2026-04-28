@@ -65,12 +65,17 @@ This study applies Particle Swarm Optimization to codebook design in speech reco
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Systems</div><img src='images/Robotic Systems for Sustainable Development.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 [Robotic Systems for Sustainable Development](https://youtu.be/32iZ6pw9bB8)
 
 A sustainable future means achieving shared prosperity within our planet's ecological limits. Industrial robots boost productivity while service robots assist human tasks, advancing UN Sustainable Development Goals across multiple sectors. Solar panel cleaning robots exemplify this impact—using sensor fusion and water-free technology to cut costs by 85% and increase energy output. This transformation elevates technicians into robotics managers and data analysts, harnessing AI rather than competing with machines.
-</div>
-</div>
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/LeNet-based Object Classification.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Cognitive Robotics and Computer Vision](https://github.com/SHAOWENJIN/LeNet-based-Object-Classification.git)<br><br>
+This project evaluates the performance of deep learning versus traditional computer vision methods using the CIFAR-10 and SVHN datasets. For deep learning, I developed and optimized progressive residual networks (expanding from 64/96 to 256/384 channels), incorporating the Adam optimizer, dynamic learning rate scheduling, global average pooling, and enhanced Dropout regularization to achieve test accuracies of 96.34% on SVHN and 78.77% on CIFAR-10. The traditional approach utilized SIFT for local feature extraction, integrated with K-Means clustering to build a 200-dimensional Bag-of-Words (BoW) model, and employed SVM for classification. The results demonstrate the significant superiority of deep learning in handling complex semantic features and spatial transformations compared to traditional hand-crafted features. 
+</div></div>
 
 # 🎖 Honors and Awards
 - **Provincial Bronze Award, The 14th Challenge Cup Shandong Provincial College Students Entrepreneurship Plan Competition**
