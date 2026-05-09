@@ -101,7 +101,7 @@ A sustainable future means achieving shared prosperity within our planet's ecolo
 - This project focuses on the development of an autonomous navigation framework for a mobile robot, integrating A* path planning with a Pure Pursuit controller. I implemented an A* algorithm to generate an optimal, collision-free global path by searching a 2D occupancy grid, utilizing a heuristic function to balance computational efficiency and path optimality. To execute the plan, I developed a Pure Pursuit tracking system that translates the global path into real-time velocity and steering commands by calculating a look-ahead point. The system's robustness was validated through simulations, demonstrating effective obstacle avoidance and precise trajectory following within a constrained environment. This work highlights the successful integration of discrete search algorithms and continuous feedback control to achieve reliable autonomous motion.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Systems</div><img src='images/promontialvideo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Systems</div><img src='images/promontionalvideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robotic Systems Design Project](https://github.com/MJF2003/RSDPTeam10.git)<br><br>
 - [[Code]](https://github.com/MJF2003/RSDPTeam10.git)
