@@ -65,9 +65,7 @@ This study applies Particle Swarm Optimization to codebook design in speech reco
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Systems</div><img src='images/Robotic Systems for Sustainable Development.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
 [Robotic Systems for Sustainable Development](https://youtu.be/32iZ6pw9bB8)
-
 A sustainable future means achieving shared prosperity within our planet's ecological limits. Industrial robots boost productivity while service robots assist human tasks, advancing UN Sustainable Development Goals across multiple sectors. Solar panel cleaning robots exemplify this impact—using sensor fusion and water-free technology to cut costs by 85% and increase energy output. This transformation elevates technicians into robotics managers and data analysts, harnessing AI rather than competing with machines.
 </div></div>
 
@@ -75,50 +73,40 @@ A sustainable future means achieving shared prosperity within our planet's ecolo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiDAR & SLAM</div><img src='images/LiDAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Characterisation of the SLAMTEC RPLIDAR A2M12 Lidar Unit](https://youtu.be/AMb26WioiL8)<br><br>
-- This project presents a systematic performance evaluation of the A2M12 360-degree 2D LiDAR sensor, focusing on distance accuracy and spatial resolution[cite: 1, 2]. 
-- Experimental results determined a practical operating range of 0.1589m to 13m, with peak precision observed between 1m and 5m[cite: 3]. 
-- Derived critical parameters including angular resolution, spot size, and beam divergence angle to define the sensor’s capacity to resolve closely spaced objects[cite: 4, 6].
-- While highly accurate for navigation, the study identifies error accumulation at longer ranges as a key constraint[cite: 5].
+- [[Video]](https://youtu.be/AMb26WioiL8)
+- This project presents a systematic performance evaluation of the A2M12 360-degree 2D LiDAR sensor, focusing on distance accuracy and spatial resolution. Experimental results determined a practical operating range of 0.1589m to 13m , with peak precision observed between 1m and 5m. To assess spatial resolution, I derived critical parameters—including angular resolution, spot size, and beam divergence angle—by analyzing data point returns from a fixed target at multiple distances. While the sensor demonstrates high accuracy for robotic navigation, error accumulation at longer ranges remains a constraint. Ultimately, this study defines the sensor’s capacity to resolve closely spaced objects, which is essential for detailed spatial awareness.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Vision</div><img src='images/cv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Comparative Study of Traditional Computer Vision and Deep Learning in Object Recognition](https://github.com/SHAOWENJIN/LeNet-based-Object-Classification.git)<br><br>
-- Evaluates deep learning versus traditional methods using CIFAR-10 and SVHN datasets[cite: 9, 10]. 
-- Developed optimized progressive residual networks with Adam optimizer and dynamic learning rate, achieving 96.34% accuracy on SVHN and 78.77% on CIFAR-10[cite: 11]. 
-- Traditional approach utilized SIFT for local feature extraction, K-Means clustering for a 200-dimensional BoW model, and SVM for classification[cite: 12]. 
-- Results demonstrate the significant superiority of deep learning in handling complex semantic features compared to hand-crafted features[cite: 13].
+- [[Code]](https://github.com/SHAOWENJIN/LeNet-based-Object-Classification.git)
 - [[PDF]](files/COMP64301 Coursework Cognitive Robotics and Computer Vision Assignment.pdf)
+- This project evaluates the performance of deep learning versus traditional computer vision methods using the CIFAR-10 and SVHN datasets. For deep learning, I developed and optimized progressive residual networks (expanding from 64/96 to 256/384 channels), incorporating the Adam optimizer, dynamic learning rate scheduling, global average pooling, and enhanced Dropout regularization to achieve test accuracies of 96.34% on SVHN and 78.77% on CIFAR-10. The traditional approach utilized SIFT for local feature extraction, integrated with K-Means clustering to build a 200-dimensional Bag-of-Words (BoW) model, and employed SVM for classification. The results demonstrate the significant superiority of deep learning in handling complex semantic features and spatial transformations compared to traditional hand-crafted features.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Control Theory</div><img src='images/Feedback Control.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Feedback Control](https://github.com/SHAOWENJIN/Feedback-Control.git)<br><br>
-- Focuses on designing a robust feedback control system for an autonomous mobile robot to address trajectory tracking and precise stabilization[cite: 17, 18]. 
-- Developed a PID-based controller to minimize cross-track and heading errors while navigating predefined paths[cite: 19]. 
-- Implemented a Pure Pursuit algorithm for path following, dynamically adjusting steering commands based on variable look-ahead distance[cite: 20]. 
-- Rigorous simulation analysis ensured minimal overshoot and steady-state error in response to complex trajectories[cite: 21, 22].
+- [[Code]](https://github.com/SHAOWENJIN/Feedback-Control.git)
 - [[Video]](https://youtu.be/d7U2688GAYI)
+- This project focuses on the design and implementation of a robust feedback control system for an autonomous mobile robot, specifically addressing the challenges of trajectory tracking and precise stabilization. I developed a PID-based controller that integrates proportional, integral, and derivative gains to minimize cross-track and heading errors while navigating predefined paths. To ensure system stability and smooth motion, I implemented a Pure Pursuit algorithm for path following, dynamically adjusting the robot's steering commands based on a variable look-ahead distance. The controller's performance was rigorously evaluated through simulations, where I analyzed its response to step inputs and complex trajectories, ensuring minimal overshoot and steady-state error. This work demonstrates the effective application of classical control theory to achieve high-fidelity motion control in mobile robotics.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Path Planning</div><img src='images/A_star.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A* Path Planning](https://github.com/SHAOWENJIN/A-Path-Planning.git)<br><br>
-- Development of an autonomous navigation framework integrating A* path planning with a Pure Pursuit controller[cite: 26, 27]. 
-- Implemented an A* algorithm to generate optimal, collision-free global paths by searching 2D occupancy grids[cite: 28]. 
-- Developed a tracking system to translate global paths into real-time velocity and steering commands via look-ahead point calculation[cite: 29]. 
-- Validated system robustness through simulations, demonstrating effective obstacle avoidance within constrained environments[cite: 30, 31].
+- [[Code]](https://github.com/SHAOWENJIN/A-Path-Planning.git)
 - [[Video]](https://youtu.be/d7U2688GAYI)
+- This project focuses on the development of an autonomous navigation framework for a mobile robot, integrating A* path planning with a Pure Pursuit controller. I implemented an A* algorithm to generate an optimal, collision-free global path by searching a 2D occupancy grid, utilizing a heuristic function to balance computational efficiency and path optimality. To execute the plan, I developed a Pure Pursuit tracking system that translates the global path into real-time velocity and steering commands by calculating a look-ahead point. The system's robustness was validated through simulations, demonstrating effective obstacle avoidance and precise trajectory following within a constrained environment. This work highlights the successful integration of discrete search algorithms and continuous feedback control to achieve reliable autonomous motion.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Systems</div><img src='images/promontialvideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robotic Systems Design Project](https://github.com/MJF2003/RSDPTeam10.git)<br><br>
-- Development of an autonomous delivery robot designed for indoor campus environments[cite: 35, 36]. 
-- Spearheaded the navigation system using a software stack centered on the Regulated Pure Pursuit (RPP) algorithm for precise path tracking[cite: 37]. 
-- Integrated Nav2 framework and SLAM Toolbox to enable real-time mapping and localization via 360° 2D LiDAR data[cite: 38]. 
-- Configured costmap layers and recovery behaviors to handle dynamic obstacles, ensuring safe waypoint delivery and smooth transitions[cite: 39, 40].
+- [[Code]](https://github.com/MJF2003/RSDPTeam10.git)
 - [[Video]](https://youtu.be/2GIBHMLK1Wg)
+- This project involved the development of an autonomous delivery robot, designed for indoor campus environments. I spearheaded the navigation system, implementing a robust software stack centered on the Regulated Pure Pursuit (RPP) algorithm for precise path tracking. My work integrated the Nav2 framework and SLAM Toolbox to enable real-time mapping and localization via 360° 2D LiDAR data. By utilizing RPP, I ensured the robot could dynamically adjust its velocity based on path curvature and proximity to obstacles, providing smooth and safe transitions during complex maneuvers. Additionally, I configured the costmap layers and recovery behaviors to handle dynamic obstacles, resulting in a reliable navigation pipeline capable of autonomous waypoint delivery.
 </div></div>
 
 # 🎖 Honors and Awards
