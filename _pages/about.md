@@ -65,7 +65,7 @@ This study applies Particle Swarm Optimization to codebook design in speech reco
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Systems</div><img src='images/Robotic Systems for Sustainable Development.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Robotic Systems for Sustainable Development](https://youtu.be/32iZ6pw9bB8)
+[Robotic Systems for Sustainable Development](https://youtu.be/32iZ6pw9bB8)<br><br>
 - A sustainable future means achieving shared prosperity within our planet's ecological limits. Industrial robots boost productivity while service robots assist human tasks, advancing UN Sustainable Development Goals across multiple sectors. Solar panel cleaning robots exemplify this impact—using sensor fusion and water-free technology to cut costs by 85% and increase energy output. This transformation elevates technicians into robotics managers and data analysts, harnessing AI rather than competing with machines.
 </div></div>
 
