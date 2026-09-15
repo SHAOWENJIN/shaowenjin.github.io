@@ -18,14 +18,14 @@ I am an MSc Robotics candidate at the University of Manchester, with a BEng back
 During my MSc, I led the Navigation Work Package in a six-member autonomous mobile manipulator project, developing a ROS2/Nav2-based navigation stack and validating autonomous mapping, obstacle avoidance, and goal navigation on a real robot. My MSc dissertation investigates the influence of grasp configurations on the stability of a multi-limbed robotic platform in MuJoCo, using a structured multi-metric evaluation framework for system-level comparison and failure analysis.
 Previously, I worked as an Algorithm Research Intern at Synthesis Electronic Technology Co., Ltd., contributing to an urban safety risk monitoring and early-warning platform across requirements, design, testing, deployment, and delivery. I supported 18 core technical documents (approximately 1,332 pages in total), taking responsibility for full document review, consistency checks, and cross-department coordination.
 I am particularly interested in roles that connect robotics engineering with robotics product development, systems engineering, verification & validation, and technical project management.
-💡 Technical Skills
+# 💡 Technical Skills
 Robotics Systems: ROS2, Nav2, SLAM, TF2, Costmap, LiDAR, system integration, real-robot navigation.
 Planning & Control: A path planning, Pure Pursuit, PID control, global/local path planning, motion control.*
 Simulation & Analysis: MuJoCo, Python, NumPy, Matplotlib, requirements verification, experiment design, system-level evaluation.
 Artificial Intelligence: Computer Vision, Deep Learning, Machine Learning, Pattern Recognition, Embedded Systems.
 Programming & Tools: Python, C/C++, Java, Git/GitHub, Microsoft Word, PowerPoint, Excel.
 Project & Documentation: Requirements analysis, Design Review, WBS/Gantt planning, technical documentation, testing & delivery materials, cross-functional communication.
-🤖 Featured Robotics Projects
+# 🤖 Featured Robotics Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Systems</div><img src='images/promontionalvideo.png' alt="Robotic Systems Design Project" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robotic Systems Design Project](https://github.com/MJF2003/RSDPTeam10.git)<br><br>
@@ -76,7 +76,7 @@ Project & Documentation: Requirements analysis, Design Review, WBS/Gantt plannin
 - Implemented a traditional pipeline using SIFT, K-Means Bag-of-Words, and SVM to analyse the trade-offs between learned and hand-crafted representations.
 - [[PDF]](files/COMP64301%20Coursework%20Cognitive%20Robotics%20and%20Computer%20Vision%20Assignment.pdf)
 </div></div>
-🧠 Earlier AI & Engineering Projects
+# 🧠 Earlier AI & Engineering Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Deep Learning</div><img src='images/Deep Learning-Based Prediction of Photovoltaic Power Generation.png' alt="PV Power Prediction" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Learning-Based Prediction of Photovoltaic Power Generation](https://github.com/SHAOWENJIN/Deep-Learning-Based-Prediction-of-Photovoltaic-Power-Generation.git)<br><br>
@@ -106,7 +106,7 @@ Project & Documentation: Requirements analysis, Design Review, WBS/Gantt plannin
 [Kmeans_PSO](https://github.com/SHAOWENJIN/Kmeans_PSO.git)<br><br>
 - Applied Particle Swarm Optimization to codebook design in speech recognition, using clustering and nonlinear parameter adjustment strategies to improve vector-quantization quality.
 </div></div>
-💼 Industry Experience
+# 💼 Industry Experience
 Synthesis Electronic Technology Co., Ltd. — Algorithm Research Intern
 09/2024 – 12/2024, Jinan, China
 Contributed to a customized Urban Safety Risk Monitoring and Early-Warning Platform covering traffic safety, gas, heating, special equipment, forest-fire prevention, flood control, and other urban safety scenarios.
@@ -114,7 +114,7 @@ Supported the project lifecycle from requirements and design through testing, de
 Assisted with 18 core technical documents (~1,332 pages in total), including requirements specifications, high-/detailed-level design, interface/database design, test plans and cases, deployment plans, user manuals, defect records, and self-test reports.
 Took responsibility for full document review, consistency checks, cross-department communication, and revision tracking.
 Supported documentation and verification work for 43 mechanism models across seven urban-safety themes.
-👥 Leadership & Project Coordination
+# 👥 Leadership & Project Coordination
 Student Union President / Secretariat Lead — University of Jinan
 09/2021 – 05/2024
 Coordinated multiple departments, chaired meetings, organized major student activities, and managed formal documentation and reporting.
@@ -128,9 +128,9 @@ Provincial Bronze Award, The 14th Challenge Cup Shandong Provincial College Stud
 Software Copyright Registration — Fatigue Driving Intelligent Detection System Based on Atlas 200I DK A2
 Provincial Third Prize, Shandong Provincial College Student Artificial Intelligence Competition
 Provincial Third Prize, Shandong Provincial College Student Computer Technology Application Competition
-📖 Education
+# 📖 Education
 University of Manchester — MSc Robotics, 09/2025 – 12/2026 (Expected)  
 Current taught-course average: 69.75/100 (dissertation result pending); Robotic Systems Design Project: 74/100.
 University of Jinan — BEng Artificial Intelligence, 09/2021 – 06/2025.
-🎯 Career Interests
+# 🎯 Career Interests
 Robotics Product Management · Systems Engineering · Verification & Validation · Technical Project Management · Robotics Project Delivery
