@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "SHAOWEN JIN"
-description              : "Interested in Artificial Intelligence, Robotics, Deep learning, Environmental Protection."
+description              : "MSc Robotics | AI Background | Robotics Systems, Product & Technical Project Management."
 repository               : "shaowenjin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "SHAOWEN JIN"
   avatar           : "images/personal-512.png"
-  bio              : "The University of Manchester"
-  location         : "Manchester, United Kingdom"
+  bio              : "MSc Robotics @ The University of Manchester"
+  location         : "Shandong, China"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "shaowen.jin@postgrad.manchester.ac.uk"
+  email            : "Jinshaowen_JN@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
