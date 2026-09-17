@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MSc Robotics student at the University of Manchester, with a Bachelor's degree in Artificial Intelligence from the University of Jinan. My academic and project experience spans autonomous navigation, robot system integration, simulation, verification and technical project delivery.
+I am an MSc Robotics student at the University of Manchester, with a Bachelor's degree in Artificial Intelligence from the University of Jinan. My experience combines hands-on robotics engineering with system-level analysis, requirements, verification, technical documentation and cross-functional project coordination.
 
-During my MSc, I led the Navigation Work Package in a six-member autonomous mobile robot project, working with ROS2, Nav2, SLAM, TF2 and costmap configuration. The final physical robot successfully achieved autonomous mapping, obstacle avoidance and waypoint navigation. I also conducted system verification activities, contributed to multiple design review documents, and independently produced the final Technical Demonstration.
+During my MSc, I led the Navigation Work Package in a six-member autonomous mobile robot project. Using ROS2, Nav2, SLAM, TF2 and costmap configuration, I contributed to a physical robot that successfully achieved autonomous mapping, obstacle avoidance and waypoint navigation. I also participated in requirements analysis, design reviews, system verification and technical deliverables throughout the project lifecycle.
 
-Alongside robotics development, I have practical experience with project requirements, testing and technical documentation. During my internship at Synthesis Electronic Technology Co., Ltd., I participated in an urban safety risk monitoring platform project covering requirements, design, testing, deployment and delivery. I reviewed 18 core technical documents totalling approximately 1,332 pages and coordinated revisions with related departments.
+My industry experience further exposed me to the complete lifecycle of a large software and algorithm project, from requirements and system design to testing, deployment and delivery. During my internship at Synthesis Electronic Technology Co., Ltd., I reviewed 18 core project documents totalling approximately 1,332 pages and coordinated technical revisions across departments.
 
-My current career interests focus on roles that combine strong technical understanding with product, system and project execution, particularly **Robotics Product Management, Systems Engineering, Verification & Validation, and Technical Project Management**.
+Rather than focusing exclusively on pure algorithm development, I am particularly interested in roles that connect technical understanding with system and product execution, including **Robotics Product Management, Systems Engineering, Requirements & Verification, and Technical Project Management**.
 
+
+<span class='anchor' id='technical-skills'></span>
 
 # 💡 Technical Skills
 
@@ -35,6 +37,8 @@ My current career interests focus on roles that combine strong technical underst
 - **Engineering & Project Skills:** *Requirements analysis, Design Review, Requirements Verification, WBS/Gantt planning, technical documentation, cross-functional coordination, technical presentation.*
 - **Tools:** *Git, GitHub, Microsoft Office, ROS2 ecosystem.*
 
+
+<span class='anchor' id='robotics-projects'></span>
 
 # 🤖 Featured Robotics Projects
 
@@ -126,6 +130,7 @@ My current career interests focus on roles that combine strong technical underst
 
 </div></div>
 
+<span class='anchor' id='industry-experience'></span>
 
 # 🧩 Industry Experience
 
@@ -139,6 +144,7 @@ My current career interests focus on roles that combine strong technical underst
 - Coordinated technical content, revision comments and issue tracking with related departments.
 - Supported documentation and verification work related to **43 mechanism models across seven urban safety domains**.
 
+<span class='anchor' id='leadership'></span>
 
 # 🧭 Project & Leadership Experience
 
@@ -159,6 +165,8 @@ My current career interests focus on roles that combine strong technical underst
 - Organised project documentation and presentations.
 - Won the **Provincial Second Prize** in the National University Students' FinTech Innovation Competition.
 
+
+<span class='anchor' id='ai-projects'></span>
 
 # 🧠 Earlier AI & Engineering Projects
 
@@ -198,6 +206,7 @@ My current career interests focus on roles that combine strong technical underst
 
 </div></div>
 
+<span class='anchor' id='honors'></span>
 
 # 🎖 Honors and Awards
 
@@ -212,6 +221,7 @@ My current career interests focus on roles that combine strong technical underst
 - **Software Copyright Registration**
   <br>*Fatigue Driving Intelligent Detection System Based on Atlas 200I DK A2*
 
+<span class='anchor' id='education'></span>
 
 # 📖 Education
 
@@ -227,6 +237,7 @@ My current career interests focus on roles that combine strong technical underst
   Arithmetic mean average: **87.32/100**  
   Subject Rankings: **3/36**
   
+<span class='anchor' id='career-interests'></span>
 
 # 💼 Career Interests
 
