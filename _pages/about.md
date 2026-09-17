@@ -223,10 +223,10 @@ My current career interests focus on roles that combine strong technical underst
 
 - **University of Jinan**  
   *Bachelor of Engineering in Artificial Intelligence*  
-  *09/2021 – 06/2025*
+  *09/2021 – 06/2025*  
   Arithmetic mean average: **87.32/100**  
   Subject Rankings: **3/36**
-
+  
 
 # 💼 Career Interests
 
