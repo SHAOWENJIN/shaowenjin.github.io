@@ -1,19 +1,22 @@
 # Main Navigation Links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
-  - title: "Technical Skills"
-    url: "/#-technical-skills"
+  - title: "Skills"
+    url: "/#technical-skills"
 
-  - title: "Research"
-    url: "/#-research"
+  - title: "Robotics Projects"
+    url: "/#robotics-projects"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Experience"
+    url: "/#industry-experience"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Leadership"
+    url: "/#leadership"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "AI Projects"
+    url: "/#ai-projects"
+
+  - title: "Education"
+    url: "/#education"
