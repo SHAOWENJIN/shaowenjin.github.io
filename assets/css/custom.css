@@ -1,0 +1,35 @@
+/*
+  用户自定义设计 / Site customization
+  ----------------------------------------------------------
+  本文件在 style.css 之后加载。以后改字号、颜色、间距、布局，优先在这里增加规则，
+  无需修改已验证的核心样式。改动前建议备份；修改后刷新浏览器并检查中英文及手机端。
+  详细说明：README_DESIGN.md
+
+  下面都是【被注释的示例】，不会改变当前 V2.4 的设计。
+  若要使用，删除对应示例前后的注释标记，并修改数值。
+*/
+
+/* 示例 1：修改浅色/深色强调色（绿色）
+:root { --accent: #426b60; --accent-soft: #e7f0e9; }
+:root[data-theme="dark"] { --accent: #a7ccb9; --accent-soft: #273e37; }
+*/
+
+/* 示例 2：修改正文及标题字号
+body { font-size: 16px; }
+.hero h1 { font-size: clamp(39px, 5vw, 72px); }
+.page-intro h1 { font-size: clamp(46px, 6vw, 78px); }
+*/
+
+/* 示例 3：修改首页轮播的日间背景色，保留夜间主题
+:root { --carousel-surface: #e9ede8; }
+*/
+
+/* 示例 4：全局内容最大宽度
+:root { --container: 1190px; }
+*/
+
+/* 示例 5：手机屏幕独立调整
+@media (max-width: 700px) {
+  .hero h1 { font-size: 44px; }
+}
+*/
