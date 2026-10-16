@@ -1,4 +1,4 @@
-# 金绍文个人网站｜内容修改手册
+# 个人网站｜内容修改手册
 
 网站地址：<https://shaowenjin.github.io/>  
 设计修改：请看 [`README_DESIGN.md`](README_DESIGN.md)。  
